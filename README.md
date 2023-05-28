@@ -7,7 +7,8 @@ Neste curso serão abordados:
 - Cabeamento estruturado
 - Modelo OSI e TCP/IP
 - IPV4 e IPV6
-- Cálculo de Sub Rede, Domínio, DNS e Latência
+- Cálculo de Sub Rede, 
+- Domínio, DNS e Latência
 - Principais Comandos e Configurações 
 - Segurança
 - Wireless
